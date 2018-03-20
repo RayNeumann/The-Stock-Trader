@@ -1,7 +1,5 @@
 # The-Stock-Trader
 
-# npm install
-
-# 
+npm install
 
 npm run dev
